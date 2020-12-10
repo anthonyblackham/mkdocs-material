@@ -29,6 +29,7 @@ site_url: 'https://anthonyblackham.com/mkdocs-material'
 # Repository
 repo_name: 'mkdocs-material'
 repo_url: 'https://github.com/anthonyblackham/mkdocs-material'
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: 'Copyright &copy; 2020 Anthony Blackham'
