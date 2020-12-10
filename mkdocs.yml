@@ -1,0 +1,34 @@
+# Project information
+site_name: 'MkDocs Material'
+site_description: 'Documentation using MkDocs with the Material theme'
+site_author: 'Anthony Blackham'
+site_url: 'https://anthonyblackham.com/mkdocs-material'
+
+# Repository
+repo_name: 'mkdocs-material'
+repo_url: 'https://github.com/anthonyblackham/mkdocs-material'
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: 'Copyright &copy; 2020 Anthony Blackham'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  logo: 'icons/logo.svg'
+
+# Customisation
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: 'https://github.com/anthonyblackham/mkdocs-material'
+
+# Pages
+nav:
+- Home: index.md
+- Installation: Installation.md
+- Getting Started: Getting-Started.md
+- Style Guide: Style-Guide.md
+- Configuration: Configuration.md
+- Deploy: Deploy.md
